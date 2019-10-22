@@ -1,5 +1,5 @@
 /**
- * @author       Digitsensitive <digit.sensitivee@gmail.com>
+ * @author       Jonny Peng <jonny.peng@qq.com>
  * @copyright    2018 - 2019 digitsensitive
  * @license      Digitsensitive
  */
